@@ -14,7 +14,7 @@ app = FastAPI()
 
 @app.get("/")
 def _handle_root():
-    return {"message": "Welcome to Cropboard weather server"}
+    return {"message": "Welcome to Cropboard weather server. Navigate to /any-city-name to get weather data for that city"}
 
 
 @app.get("/{city}")
