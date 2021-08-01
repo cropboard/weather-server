@@ -33,7 +33,7 @@ First clone this repository
 git clone https://github.com/cropboard/weather-server
 ```
 
-The change directory into it
+Then change directory into it
 
 ```shell
 cd weather-server
