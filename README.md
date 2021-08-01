@@ -1,6 +1,9 @@
 # Cropboard weather service
 
 This is a minimal weather microservice for cropboard.
+
+Test it [here](https://weathermicroservice.cropboard.studio/)
+
 It serves little data like below
 
 ```json
